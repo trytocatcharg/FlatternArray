@@ -1,0 +1,6 @@
+C:\Users\fsn\Documents\DESARROLLO\Citrusbyte\Flatten.Array\Flatten.Array\bin\Debug\Flatten.Array.exe.config
+C:\Users\fsn\Documents\DESARROLLO\Citrusbyte\Flatten.Array\Flatten.Array\bin\Debug\Flatten.Array.exe
+C:\Users\fsn\Documents\DESARROLLO\Citrusbyte\Flatten.Array\Flatten.Array\bin\Debug\Flatten.Array.pdb
+C:\Users\fsn\Documents\DESARROLLO\Citrusbyte\Flatten.Array\Flatten.Array\obj\Debug\Flatten.Array.csproj.CoreCompileInputs.cache
+C:\Users\fsn\Documents\DESARROLLO\Citrusbyte\Flatten.Array\Flatten.Array\obj\Debug\Flatten.Array.exe
+C:\Users\fsn\Documents\DESARROLLO\Citrusbyte\Flatten.Array\Flatten.Array\obj\Debug\Flatten.Array.pdb

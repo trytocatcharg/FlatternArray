@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flatten.Array", "Flatten.Array\Flatten.Array.csproj", "{ABF81354-559E-41A3-B58E-918504787E9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flatten.Array.Test", "Flatten.Array.Test\Flatten.Array.Test.csproj", "{16798571-6247-47BB-A677-F3E63FEFA93E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABF81354-559E-41A3-B58E-918504787E9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABF81354-559E-41A3-B58E-918504787E9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABF81354-559E-41A3-B58E-918504787E9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABF81354-559E-41A3-B58E-918504787E9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16798571-6247-47BB-A677-F3E63FEFA93E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16798571-6247-47BB-A677-F3E63FEFA93E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16798571-6247-47BB-A677-F3E63FEFA93E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16798571-6247-47BB-A677-F3E63FEFA93E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D432761-8F00-4361-8E4D-660B344A0A0C}
+	EndGlobalSection
+EndGlobal
